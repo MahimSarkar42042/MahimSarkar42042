@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abu Taher Mahim Sarkar</h1>
-<h3 align="center">I'm Quick Learner</h3>
+<h3 align="center">👀 I’m interested in Software Engineering </h3>
+<h3 align="center">🌱 I’m currently Doing Bachelor of Science in Computer Science and Engineering At AIUB </h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
