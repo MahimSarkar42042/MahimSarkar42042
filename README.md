@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://dribbble.com/shots/3587000-Coding)
+[![MasterHead][(https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)](https://www.google.com/search?q=banner+image+of+software+engineer+from+gif&tbm=isch&ved=2ahUKEwjtiv_g7_X_AhWBqGMGHfmwC3gQ2-cCegQIABAA&oq=banner+image+of+software+engineer+from+gif&gs_lcp=CgNpbWcQA1DoD1iyM2C4NmgAcAB4AIABiwGIAfYIkgEEMC4xMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=jn6kZO2LNoHRjuMP-eGuwAc&bih=828&biw=1707#imgrc=YOgYk-1yyepd4M)
 
 <h1 align="center">Hi 👋, I'm Abu Taher Mahim Sarkar</h1>
 <h3 align="center">👀 I’m interested in Software Engineering </h3>
