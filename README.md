@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abu Taher Mahim Sarkar</h1>
+<h3 align="center">👀 A passionate CSE undergrad from Bangladesh </h3>
 <h3 align="center">👀 I’m interested in Software Engineering </h3>
+
+
 <h3 align="center">🌱 I’m currently Doing Bachelor of Science in Computer Science and Engineering At AIUB </h3>
 
 
