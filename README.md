@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://www.istockphoto.com/vector/software-engineering-banner-and-icons-gm636526232-112969729))]
 <h1 align="center">Hi 👋, I'm Abu Taher Mahim Sarkar</h1>
 <h3 align="center">👀 I’m interested in Software Engineering </h3>
 <h3 align="center">🌱 I’m currently Doing Bachelor of Science in Computer Science and Engineering At AIUB </h3>
