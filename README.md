@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 📫 How to reach me **mahimsarkar42042@gmail.com** and Linked in **https://www.linkedin.com/in/abu-taher-mahim-sarkar-7b5a821b0/**
+- 📫 How to reach me **mahimsarkar42042@gmail.com** and Linkedin **https://www.linkedin.com/in/abu-taher-mahim-sarkar-7b5a821b0/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
